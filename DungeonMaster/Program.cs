@@ -53,7 +53,7 @@ namespace DungeonMaster
         public Campaign Campaign { get; set; } // Add navigation property for Campaign
     }
     #endregion
-    //
+    //Test
 
     #region Race
     public interface IRace
